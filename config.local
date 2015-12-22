@@ -1,0 +1,7 @@
+DBNAME=dcib
+DBUSER=root
+DBPASS=hithere
+DCIBUSER=dcib
+DCIBUSERPASS=hitheredcib
+DCIBADM=dcib_adm
+DCIBADMPASS=hithereadm
